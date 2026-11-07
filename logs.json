@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2026-10-13 10:00:00",
+        "level": "INFO",
+        "message": "Application started"
+    },
+    {
+        "timestamp": "2026-10-13 10:01:00",
+        "level": "WARNING",
+        "message": "High memory usage"
+    },
+    {
+        "timestamp": "2026-10-13 10:02:00",
+        "level": "ERROR",
+        "message": "Database connection failed"
+    },
+    {
+        "timestamp": "2026-10-13 10:03:00",
+        "level": "INFO",
+        "message": "User logged in"
+    },
+    {
+        "timestamp": "2026-10-13 10:04:00",
+        "level": "ERROR",
+        "message": "File not found"
+    },
+    {
+        "timestamp": "2026-10-13 10:05:00",
+        "level": "WARNING",
+        "message": "Slow response detected"
+    },
+    {
+        "timestamp": "2026-10-13 10:06:00",
+        "level": "INFO",
+        "message": "Settings saved successfully"
+    },
+    {
+        "timestamp": "2026-10-13 10:07:00",
+        "level": "ERROR",
+        "message": "Unable to send email"
+    }
+]
