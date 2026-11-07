@@ -1,0 +1,8 @@
+JSON-BASED LOG FILE ANALYZER
+Example summary for the included logs.json:
+
+Total logs       : 8
+Information logs : 3
+Warnings         : 2
+Errors           : 3
+Other levels     : 0
